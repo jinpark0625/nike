@@ -382,8 +382,8 @@ header {
         width: 100%; 
         padding: 0 48px; 
         min-height: 100vh; 
-        position: fixed;
-        top:68px;
+        position: relative;
+        top:0px;
         left:100vw;
         transition: left 0.4s;
         display: block; 
